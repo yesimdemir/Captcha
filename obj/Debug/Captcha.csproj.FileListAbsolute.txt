@@ -1,0 +1,12 @@
+D:\Projects\Captcha\bin\Debug\Captcha.exe.config
+D:\Projects\Captcha\bin\Debug\Captcha.exe
+D:\Projects\Captcha\bin\Debug\Captcha.pdb
+D:\Projects\Captcha\obj\Debug\Captcha.csproj.AssemblyReference.cache
+D:\Projects\Captcha\obj\Debug\Captcha.csproj.SuggestedBindingRedirects.cache
+D:\Projects\Captcha\obj\Debug\Captcha.Form1.resources
+D:\Projects\Captcha\obj\Debug\Captcha.Properties.Resources.resources
+D:\Projects\Captcha\obj\Debug\Captcha.csproj.GenerateResource.cache
+D:\Projects\Captcha\obj\Debug\Captcha.csproj.CoreCompileInputs.cache
+D:\Projects\Captcha\obj\Debug\Captcha.exe
+D:\Projects\Captcha\obj\Debug\Captcha.pdb
+D:\Projects\Captcha\obj\Debug\Captcha.Form2.resources
